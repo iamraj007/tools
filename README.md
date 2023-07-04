@@ -1,2 +1,2 @@
-# tools
-Some tools and repos
+# Tools
+Collection of basic tools and repos
