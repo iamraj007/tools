@@ -1,6 +1,14 @@
 body{
     background: black;
 }
+.login__logo img.logo-image {
+  display: none
+}
+.login__logo {
+    background-size: 100px 50px;
+    background-image: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);
+    height: 50px;
+}
 /* used to set a different logo */
 .nav-bar__logo img {
     content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);
