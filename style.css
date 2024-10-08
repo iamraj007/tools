@@ -9,3 +9,6 @@ body{
     background-color: #00ace6;
     color: white;
 }
+.sidebar__logo img { 
+  content: url(https://github.com/user-attachments/assets/c459324e-c0ee-4805-a011-172277190abb);
+}
