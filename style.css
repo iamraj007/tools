@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+/* used to set a different logo */
+.nav-bar__logo img {
+    content: url( ![PH 200x200](https://github.com/user-attachments/assets/c459324e-c0ee-4805-a011-172277190abb)
+ );
+}
+.filter{
+    background-color: #00ace6;
+    color: white;
+}
