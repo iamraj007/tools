@@ -1,0 +1,22 @@
+/* used to set a different logo */
+.nav-bar__logo img {
+    content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);
+}
+.filter{
+    background-color: #00ace1;
+    color: white;
+}
+.sidebar__logo img { 
+  content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);
+}
+.sidebar__logo__character {
+   content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);    
+   width: 42px;
+   height: 54.2812px; 
+}
+.login-panel {
+  background-color: #1e1e2f !important;
+}
+.login-box {
+  border: 2px solid red !important;
+}
