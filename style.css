@@ -20,3 +20,8 @@ body{
 .sidebar__logo img { 
   content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);
 }
+.sidebar__logo__character {
+   content: url(https://cloudprice.net/_next/static/media/minimal-logo.2cbeccf3.png);    
+   width: 42px;
+   height: 54.2812px; 
+}
