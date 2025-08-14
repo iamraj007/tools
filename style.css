@@ -25,3 +25,11 @@ body{
    width: 42px;
    height: 54.2812px; 
 }
+
+.login-panel {
+  background-color: #1e1e2f !important;
+}
+
+.login-box {
+  border: 2px solid red !important;
+}
